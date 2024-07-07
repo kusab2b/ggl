@@ -1,0 +1,214 @@
+*{
+    box-sizing: border-box;
+
+}
+
+@font-face {
+    font-family: rob;
+    src: url(fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: open;
+    src: url(fonts/OpenSans-VariableFont_wdth\,wght.ttf);
+}
+
+.container{
+    width: auto;
+}
+
+.header{
+    width: 100%;
+    height: 847px;
+    background-color: #1E28320D;
+    padding-top: 30px;
+    
+}
+
+.v6vic{
+    width: 25px;
+    height: 25px;
+}
+
+.group{
+    width: 31px;
+    height: 15px;
+}
+
+.cor{
+    font-size: 28px;
+    font-family: rob;
+    align-items: center;
+}
+
+.topmain{
+    width: 1320px;
+    height: 113px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    
+   
+}
+.logo{
+    margin-top: -60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    }
+
+    .acc{
+        width: 20px;
+        height: 19px;
+        column-gap: 20px;
+    }
+
+    .btn1{
+        width: 67px;
+        height: 21px;
+
+
+    }
+
+    .btn1{
+        border: none;
+        color: ;
+        cursor: pointer;
+    }
+
+    .account{
+        display: flex;
+        
+    }
+    .mainspan{
+        display: flex;
+        justify-content: end;
+        margin-top: -58px;
+        column-gap: 10px;
+    }
+
+    hr{
+        border: 1px solid #E3E3E3;
+        margin-top: 35px;
+    }
+
+    
+    ul{
+        
+        display: flex;
+        margin-top: 30px;
+        font-size: 16px;
+        font-family: open;
+        list-style-type: none;
+        justify-content: space-between;
+        padding: 0;
+    }
+
+    .vector{
+    position: absolute;
+      width: 195px;
+      height: 262px;
+      margin-left: 1320px;
+      margin-top: 200px;
+        
+    }
+
+    .product{
+        width: 1226px;
+        height: 562px;
+        margin-top: 50px;
+        border: 1px solid;
+        display: flex;
+    
+    }
+
+    .content{
+        width: 668px;
+        height: 364px;
+        border: 1px solid;
+        margin: 0;
+        padding: 0;
+        margin-top: 70px;
+    }
+
+    .collect{
+        font-size: 74px;
+        font-family: rob;
+        margin: 0;
+    }
+
+    .various{
+        font-size: 30px;
+        font-family: rob;
+        
+    }
+
+    .btn2{
+        width: 223px;
+        height: 72px;
+        padding-left: 30px;
+        margin-top: 65px;
+        background-color: #1E2832;
+        font-size: 29px;
+        color: white;
+        
+    }
+
+    .shop{
+       position: absolute;
+       margin-left: -160px;
+    }
+
+    .glam{
+    width: 442px;
+    height: 562px;
+    position: relative;
+    margin-left: 100px;
+    }
+
+.brands{
+
+    display: flex;
+    margin-top: 150px;
+    border: 1px solid;
+    justify-content: center;
+    justify-content: space-between;
+
+
+}
+
+
+
+    
+        
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
